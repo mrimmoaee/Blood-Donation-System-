@@ -1,0 +1,20 @@
+﻿  X-Treme Blood Bank Management System.cpp
+X-Treme Blood Bank Management System.cpp(136): warning C4308: negative integral constant converted to unsigned type
+X-Treme Blood Bank Management System.cpp(136): warning C4307: '*': integral constant overflow
+X-Treme Blood Bank Management System.cpp(221): warning C4308: negative integral constant converted to unsigned type
+X-Treme Blood Bank Management System.cpp(221): warning C4307: '*': integral constant overflow
+X-Treme Blood Bank Management System.cpp(394): warning C4308: negative integral constant converted to unsigned type
+X-Treme Blood Bank Management System.cpp(394): warning C4307: '*': integral constant overflow
+X-Treme Blood Bank Management System.cpp(406): warning C4308: negative integral constant converted to unsigned type
+X-Treme Blood Bank Management System.cpp(406): warning C4307: '*': integral constant overflow
+X-Treme Blood Bank Management System.cpp(467): warning C4308: negative integral constant converted to unsigned type
+X-Treme Blood Bank Management System.cpp(467): warning C4307: '*': integral constant overflow
+X-Treme Blood Bank Management System.cpp(479): warning C4308: negative integral constant converted to unsigned type
+X-Treme Blood Bank Management System.cpp(479): warning C4307: '*': integral constant overflow
+X-Treme Blood Bank Management System.cpp(541): warning C4308: negative integral constant converted to unsigned type
+X-Treme Blood Bank Management System.cpp(541): warning C4307: '*': integral constant overflow
+X-Treme Blood Bank Management System.cpp(554): warning C4308: negative integral constant converted to unsigned type
+X-Treme Blood Bank Management System.cpp(554): warning C4307: '*': integral constant overflow
+  AssemblyInfo.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  X-Treme Blood Bank Management System.vcxproj -> C:\Users\User\Desktop\Semister 2\PCPP\Assignment Working\X-Treme Blood Bank Management System\Debug\X-Treme Blood Bank Management System.exe
+  X-Treme Blood Bank Management System.vcxproj -> C:\Users\User\Desktop\Semister 2\PCPP\Assignment Working\X-Treme Blood Bank Management System\Debug\X-Treme Blood Bank Management System.pdb (Partial PDB)
